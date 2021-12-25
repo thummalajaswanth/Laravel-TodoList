@@ -1,0 +1,49 @@
+* {
+    scroll-behavior: smooth;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background: #dde1e7; */
+    background: #9A031E !important;
+}
+
+h2 {
+    color: #FCDC4D;
+    margin-top: 20px !important;
+    font-family: 'Russo One', sans-serif;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+    color: #0FA3B1;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 3px 3px 15px #00000080, 3px 3px 15px #00000080;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#addTask {
+    box-shadow: 3px 3px 15px #00000080, 3px 3px 15px #00000080;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    box-shadow: -3px -3px 5px #ffffff60, 3px 3px 15px #00000060;
+}
+
+.todoContainer {
+    background: #dde1e7;
+    border-radius: 25px;
+    box-shadow: 3px 3px 15px #00000080, 3px 3px 15px #00000080;
+}
+
+.input-group {
+    box-shadow: 3px 3px 15px #00000080, 3px 3px 15px #00000080;
+    font-family: 'Roboto', sans-serif;
+}
